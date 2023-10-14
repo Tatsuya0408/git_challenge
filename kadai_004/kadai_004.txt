@@ -1,0 +1,12 @@
+saitoutatsuya@saitoutatsuyanoMacBook-Pro git_challenge % git log
+commit 44a61caa0e1a272735e6413760d860c5fce44af7 (HEAD -> main)
+Author: tatsuya-saitou <tatuya12236@gmail.com>
+Date:   Tue Oct 10 13:31:06 2023 +0900
+
+    2番目のコミット
+
+commit 2db30650d7b2f2aab10fe406528316c61fe75a46
+Author: tatsuya-saitou <tatuya12236@gmail.com>
+Date:   Tue Oct 10 13:27:21 2023 +0900
+
+    最初のコミット
